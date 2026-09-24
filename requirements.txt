@@ -1,0 +1,27 @@
+#langchain core
+langchain
+langchain-core
+
+#Open ai integration
+langchain-openai
+openai
+
+#Anthropic integration
+langchain-anthropic
+
+#Google gemini
+langchain-google-genai
+#google-generative-ai
+google-genai
+
+#Hugging face integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+#Env management
+python-dotenv
+
+#ML utilities
+numpy
+scikit-learn
